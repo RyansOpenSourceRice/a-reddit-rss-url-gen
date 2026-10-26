@@ -1,3 +1,10 @@
+> [!NOTE]
+> **Maintenance status: Archived — functionality ends November 13, 2026.**
+>
+> Per Reddit's September 30, 2026 announcement, Reddit RSS support ends November 13, 2026 — this generator will be non-functional after that date.
+>
+> Archive retained for reference until 2029-01-01, when it will be removed as obsolete. Fork if needed.
+
 # Reddit RSS Feed URL Generator
 
 ![Reddit RSS Generator Interface](images/reddit_rss_generator.png)
